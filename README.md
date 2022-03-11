@@ -1,36 +1,19 @@
-<div align="center">
-<h1> A Fully Functional Restaurant Website </h1>
+This is a Restaurant Front End website design
 
+Web Technologies -> HTML, CSS, JS, Bootstrap
 
-[Live Preview](https://rainyroof.vercel.app/)
+IDE: VS-Code
 
-Don't forget to :star: the repo if you like it :blush:
+Note: Bot is deployed on contact page
 
+Industry*: Lifestyle
 
+Project Title*: Restaurant Website
 
-<br>
+Problem Statement/Opportunity*: An Restaurant owner wants to build a sample Front End prototype website for their business as the online ordering by people has been growing at an incredible rate, and so have ecommerce challenges. To build a whole website they have chosen Azure Cloud Platform. Build a website that have: Home Page.
 
-![img 1](img/1.png)
-![img 2](img/2.png)
-![img 3](img/3.png)
-![img 4](img/4.png)
-![img 5](img/5.png)
-![img 6](img/6.png)
-![img 7](img/7.png)
-![img 8](img/8.png)
-![img 9](img/9.png)
+Project Description*: Core Idea of Project is to build an sample prototype Restaurant Website for a business company or shop keppers with the help of HTML, CSS, JAVASCRIPT, BOOTSTRAP. The business-to-consumer aspect of product commerce (e-commerce) is the most visible business use of the World Wide Web. The primary goal of sample prototype an e-commerce site is to sell goods online with solving problems of customer speedily . This project deals with developing an e-commerce website for Online Product Sale so that it become convenient for customers to eat what so ever they want to anytime. It provides the user with a catalog of different product items available in shop for ordering in the store. In order to facilitate online purchase a shopping cart is provided to the user. We are using Azure Technologies with GitHub to complete this project.
 
+Primary Azure Technology: Web Apps
 
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
+Other Azure Technologies: App Service
